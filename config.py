@@ -1,6 +1,6 @@
 customhost = "empmentor.cfu60ynydubj.us-east-1.rds.amazonaws.com"
 customuser = "mentoruser"
 custompass = "menusrpwd"
-customdb = "empmentor"
+customdb = "employee"
 custombucket = "addempmentor"
 customregion = "us-east-1"
