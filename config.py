@@ -1,6 +1,6 @@
 customhost = "trainingdb.cvb006rbnfyp.us-east-2.rds.amazonaws.com"
 customuser = "admin"
 custompass = "passW0rd"
-customdb = "TrainingDB"
+customdb = "trainingdb"
 custombucket = "trainingbucketsigma"
 customregion = "us-east-2"
